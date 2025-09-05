@@ -33,8 +33,8 @@ want this: ![Arc](https://img.shields.io/badge/Arc-000000?style=for-the-badge&lo
 - Gain practical experience through internships.
 
 
+Feel free to connect with me, periwinkle, and explore my projects! 🚀
+
+
 #### I wish
 - [Mars 2020 Helicopter Mission](https://github.com/readme/featured/nasa-ingenuity-helicopter)
-
-
-Feel free to connect with me and explore my projects! 🚀
