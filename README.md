@@ -1,7 +1,7 @@
 ### 👋 Hi there! I’m **winkletinkle**
 
 #### 🌟 About Me
-I'm a first-year Computer Science student from India with a passion for coding and technology. I love exploring new languages and frameworks, and I'm excited to dive into the world of software development.
+I'm a second-year Computer Science student from India with a passion for coding and technology. I love exploring new languages and frameworks, and I'm excited to dive into the world of software development.
 
 #### 🛠️ Tech Stack
 - **Languages:** Python, Java, C++
@@ -13,6 +13,10 @@ I'm a first-year Computer Science student from India with a passion for coding a
 - Data Structures and Algorithms
 - Machine Learning Basics
 - Web Development (React & Node.js)
+
+use this:	![DuckDuckGo](https://img.shields.io/badge/duckduckgo-de5833?style=for-the-badge&logo=duckduckgo&logoColor=white)
+not this: ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
+want this: ![Arc](https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white)
 
 #### 📈 Projects
 - **Portfolio Website:** A personal website showcasing my projects and skills. 
@@ -28,4 +32,9 @@ I'm a first-year Computer Science student from India with a passion for coding a
 - Build more complex applications and expand my portfolio.
 - Gain practical experience through internships.
 
+
 Feel free to connect with me, periwinkle, and explore my projects! 🚀
+
+
+#### I wish
+- [Mars 2020 Helicopter Mission](https://github.com/readme/featured/nasa-ingenuity-helicopter)
