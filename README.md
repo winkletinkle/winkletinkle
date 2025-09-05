@@ -1,4 +1,4 @@
-### 👋 Hi there! I’m **winkletinkle**
+### 👋 Hi there! I’m **Sheikh Mohammad**
 
 #### 🌟 About Me
 I'm a second-year Computer Science student from India with a passion for coding and technology. I love exploring new languages and frameworks, and I'm excited to dive into the world of software development.
