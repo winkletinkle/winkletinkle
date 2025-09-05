@@ -14,6 +14,10 @@ I'm a first-year Computer Science student from India with a passion for coding a
 - Machine Learning Basics
 - Web Development (React & Node.js)
 
+use this:	![DuckDuckGo](https://img.shields.io/badge/duckduckgo-de5833?style=for-the-badge&logo=duckduckgo&logoColor=white)
+not this: ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
+want this: ![Arc](https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white)
+
 #### 📈 Projects
 - **Portfolio Website:** A personal website showcasing my projects and skills. 
 - **Todo App:** A simple todo application built with React. 
