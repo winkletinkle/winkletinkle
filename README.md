@@ -18,6 +18,11 @@ use this:	![DuckDuckGo](https://img.shields.io/badge/duckduckgo-de5833?style=for
 not this: ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 want this: ![Arc](https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white)
 
+ <a href="https://cloud.layer5.io/user/8112e3fe-25f6-4610-891e-e8ac3c47f6f7?tab=badges&badge=gitops-connected">
+    <img width="250px" height="360px" src="https://badges.layer5.io/assets/badges/gitops-connected/gitops-connected.png" alt="GitOps Connected"/>
+  </a>
+
+
 #### 📈 Projects
 - **Portfolio Website:** A personal website showcasing my projects and skills. 
 - **Todo App:** A simple todo application built with React. 
