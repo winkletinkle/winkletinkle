@@ -16,12 +16,9 @@ All over this: ![Arc](https://img.shields.io/badge/Arc-000000?style=for-the-badg
 
 I wish to this: [Mars 2020 Helicopter Mission](https://github.com/readme/featured/nasa-ingenuity-helicopter)
 
-<div>
-I'm awesome this: 
-<a href="https://cloud.layer5.io/user/8112e3fe-25f6-4610-891e-e8ac3c47f6f7?tab=badges&badge=gitops-connected" alt="GitOps Connected" >
-    <img width="65px" src="https://badges.layer5.io/assets/badges/gitops-connected/gitops-connected.png" alt="GitOps Connected" />
-  </a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io">Get your own badge</a></sup>
-</div>
+
+I'm awesome this: <a href="https://cloud.layer5.io/user/8112e3fe-25f6-4610-891e-e8ac3c47f6f7?tab=badges&badge=gitops-connected" alt="GitOps Connected" ><img width="65px" src="https://badges.layer5.io/assets/badges/gitops-connected/gitops-connected.png" alt="GitOps Connected" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io">Get yours</a></sup>
+
 
 
 
