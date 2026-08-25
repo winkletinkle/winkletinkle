@@ -1,5 +1,5 @@
 #### 🌟 About Me
-I’m **Sheikh Mohammad. I'm a platform engineer working on self-service offerings in the engineering CoE in TCS Labs. Find me on X at [@winkletinkler](https:x.com/winklertinkler).
+I’m Sheikh Mohammad. I'm a platform engineer working on self-service offerings in the engineering CoE in TCS Labs. Find me on X at [@winkletinkler](https:x.com/winklertinkler).
 
 #### 🛠️ Tech Stack
 - **Languages:** Too many
